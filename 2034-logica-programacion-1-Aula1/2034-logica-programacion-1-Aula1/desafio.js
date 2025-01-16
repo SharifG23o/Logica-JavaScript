@@ -58,6 +58,7 @@ alert(`El saldo de su cuenta es de ${saldoUsuario}`)
  *  Luego, muestra una alerta de bienvenida usando ese nombre.
  */
 
+
 let nombre= prompt("Ingrese su nombre")
 
 alert(`Bienvenid@ ${nombre} a nuestra página`)
