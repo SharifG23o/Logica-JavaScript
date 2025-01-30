@@ -47,6 +47,11 @@ Si tienes sugerencias o quieres contribuir, ¡estaré encantado de recibir tu ay
 
 ### 📌 Contacto
 Si deseas discutir sobre programación o colaborar con sugerencias, puedes encontrarme en:
+📧 Correo: [sharifgiraldo23@gmail.com]
+🐙 GitHub: SharifG23o
+💼 LinkedIn: www.linkedin.com/in/sharif-giraldo-obando-1807b81bb
+🐦 Twitter/X: @obando_sharif
+
 
 ### 📜 Licencia
 Este proyecto está licenciado bajo la GNU General Public License v3.0.
@@ -54,10 +59,6 @@ Este proyecto está licenciado bajo la GNU General Public License v3.0.
 📄 Puedes leer más detalles sobre la licencia en el archivo LICENSE o en el siguiente enlace:
 🔗 GNU GPL v3
 
-📧 Correo: [sharifgiraldo23@gmail.com]
-🐙 GitHub: SharifG23o
-💼 LinkedIn: www.linkedin.com/in/sharif-giraldo-obando-1807b81bb
-🐦 Twitter/X: @obando_sharif
 
 
 
